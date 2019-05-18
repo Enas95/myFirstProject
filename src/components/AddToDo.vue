@@ -40,7 +40,7 @@ export default{
     padding: 15px
   }
   input[type='text']{
-    padding: 10px;
+    padding: 12px;
     flex:10;
 
   }
