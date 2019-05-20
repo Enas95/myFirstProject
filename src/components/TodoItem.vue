@@ -40,7 +40,7 @@ export default{
     border: none;
     padding: 5px 9px;
     float: right;
-    border-radius: 50%;
+    /*border-radius: 50%;*/
     cursor: pointer;
   }
 </style>
